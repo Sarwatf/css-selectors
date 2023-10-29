@@ -1,0 +1,13 @@
+/* universal selector */
+  * { 
+     color: brown;} 
+
+/* Type Selector */
+ /* Single */ 
+span {
+color: blue;
+} 
+/* multiple */
+h1, div{
+    color: cadetblue;
+}

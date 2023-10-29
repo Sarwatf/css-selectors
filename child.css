@@ -1,0 +1,4 @@
+/* child selector */
+span > p{
+    color: chocolate;
+}
